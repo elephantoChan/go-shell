@@ -2,7 +2,7 @@
 
 Beginner project to learn concurrency and goroutines by building a shell.
 
-Objectives are:
+Objectives:
 
 1. arrow into files
 2. pipe redirections
